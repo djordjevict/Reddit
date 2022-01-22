@@ -4,7 +4,6 @@ SECRET_TOKEN = 'HzdUa_9xEzxKcMSb8kJD3VB0JMZg8g'
 import requests
 import pandas as pd
 from textblob import TextBlob
-import re
 
 class RedditAuth():
 
